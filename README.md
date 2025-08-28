@@ -11,6 +11,6 @@ A simple tool to analyze GitHub repositories using AWS and display insights in a
 
 ## Process
 
-Use have to simly gave their User name and the repository name
+User have to simply gave their User name and the repository name
 
 the api sends it to lambda function and analyse it and sends back to the fronend with neccesar datails.
